@@ -1,4 +1,4 @@
-// Triangle area
+// Triangle area - project-8-5
 var a = prompt('Enter the value of the triangle base "a"');
 var h = prompt('Enter the value of triangle height "h"');
 var triangleArea = a * h / 2;
